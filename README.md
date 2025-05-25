@@ -84,7 +84,7 @@ hand-tracking-pug2023/
 
 ## 📽️ Demo
 
-📥 [Click here to watch the demo video](assets/demo_video.mp4)
+📥 [Click here to watch the demo video](assests/demo_video.mp4)
 
 
 ## 👤 LinkedIn
