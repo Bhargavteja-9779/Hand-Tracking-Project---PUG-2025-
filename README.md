@@ -1,5 +1,5 @@
 ![Project Demo](assests/demo_image.png)
-
+Please Watch DEMO video for Clarification about the project
 ````md
 # 🖐️ Hand Tracking Project - PUG 2023
 
