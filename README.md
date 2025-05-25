@@ -1,4 +1,4 @@
-![Project Demo](assets/demo_image.png)
+![Project Demo](assests/demo_image.png)
 
 ````md
 # 🖐️ Hand Tracking Project - PUG 2023
