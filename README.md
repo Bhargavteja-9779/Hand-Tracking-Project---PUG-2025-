@@ -84,7 +84,7 @@ hand-tracking-pug2023/
 
 ## 📽️ Demo
 
-📥 [Click here to watch the demo video]([assests/demo_video.mp4](https://bhargavteja-9779.github.io/Hand-Tracking-Project---PUG-2025-/gh-pages/))
+📥 [Click here to watch the demo video]([[assests/demo_video.mp4](https://bhargavteja-9779.github.io/Hand-Tracking-Project---PUG-2025-/gh-pages/)](https://bhargavteja-9779.github.io/Hand-Tracking-Project---PUG-2025-/assests/demo_video.mp4))
 
 
 ## 👤 LinkedIn
