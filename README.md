@@ -1,10 +1,11 @@
+![Project Demo](assets/demo_image.png)
 
 ````md
 # 🖐️ Hand Tracking Project - PUG 2023
 
 This project implements real-time hand tracking using computer vision and optionally controls servo motors through an **Arduino** microcontroller. Developed as part of the **PUG 2023** initiative, it offers an intuitive interface for detecting finger positions and translating them into motion commands.
 
- [Project Demo](assets/demo_image.jpg)
+
 
 ---
 
@@ -83,14 +84,8 @@ hand-tracking-pug2023/
 
 ## 📽️ Demo
 
+📥 [Click here to watch the demo video](assets/demo_video.mp4)
 
-If you're not using YouTube, upload `demo.mp4` to the `assets/` folder and use:
-
-```html
-<video src="assets/demo.mp4" controls width="100%"></video>
-```
-
----
 
 ## 👤 LinkedIn
 
