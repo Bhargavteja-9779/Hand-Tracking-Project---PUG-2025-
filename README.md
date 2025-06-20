@@ -1,5 +1,7 @@
 ![Project Demo](assests/demo_image.png)
 Please Watch DEMO video for Clarification about the project
+
+📥 [Click here to watch the demo video]([https://bhargavteja-9779.github.io/Hand-Tracking-Project---PUG-2025-/assests/demo_video.mp4](https://www.linkedin.com/posts/p-n-b-t_computervision-opencv-ai-activity-7341348439001047041-VHRe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESYHHAByRWEW_5bn16hXpzHV7xApVQyhK0))
 ![Project Demo](assests/servo.png)
 ````md
 # 🖐️ Hand Tracking Project - PUG 2023
@@ -85,7 +87,7 @@ hand-tracking-pug2023/
 
 ## 📽️ Demo
 
-📥 [Click here to watch the demo video](https://bhargavteja-9779.github.io/Hand-Tracking-Project---PUG-2025-/assests/demo_video.mp4)
+📥 [Click here to watch the demo video]([https://bhargavteja-9779.github.io/Hand-Tracking-Project---PUG-2025-/assests/demo_video.mp4](https://www.linkedin.com/posts/p-n-b-t_computervision-opencv-ai-activity-7341348439001047041-VHRe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESYHHAByRWEW_5bn16hXpzHV7xApVQyhK0))
 
 
 ## 👤 LinkedIn
